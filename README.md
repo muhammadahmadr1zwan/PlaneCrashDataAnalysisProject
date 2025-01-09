@@ -60,24 +60,25 @@ This project aims to analyze global commercial airplane crashes to uncover criti
 1. **Bar Plot: Crash Causes**
    - Displays the frequency of each crash cause.
    - Highlights the most common contributing factors to crashes:
-     ![image](https://github.com/user-attachments/assets/2c3f8ac8-a8c8-463b-9387-77c3c999f649)
+     ![image](https://github.com/user-attachments/assets/86150bf2-6a5b-4a62-8645-44b3b2e26bc3)
 
 
 2. **Fatalities Over Time**
-   - Scatter Plot showing annual fatalities to identify trends:
-      ![image](https://github.com/user-attachments/assets/d22a6e06-76f0-45be-985f-282e8a0bc75b)
-   - The dot chart shows the number of crashes annually:
-      ![image](https://github.com/user-attachments/assets/572121de-9958-49e3-8055-cf4cd9e1fd4e)
-     
+   - Displays fatalities (x-axis) for each year (y-axis), with labeled axes highlighting fatalities per year for easy interpretation:
+      ![image](https://github.com/user-attachments/assets/227c2d74-bc79-43f8-aa3a-e2958cfd50b5)
+   - Displays total fatalities (x-axis) by year (y-axis), with each dot representing yearly fatalities, highlighting trends over time:
+      ![image](https://github.com/user-attachments/assets/9efc1253-c8d6-4127-b1a9-46c257872c95)
 
+     
 3. **Economic Analysis:**
    - Bar plot comparing GDP per capita of countries to crash occurrences:
-     ![image](https://github.com/user-attachments/assets/09820dfc-537b-4317-ab4d-535791287689)
+     ![image](https://github.com/user-attachments/assets/65e8270f-afe4-4eca-8451-a0fcef6ca1e0)
+
 
 
 4. **Scatter Plot: Fatalities vs. Causes**
-   - Visual representation of fatalities corresponding to crash causes:
-     ![image](https://github.com/user-attachments/assets/3d609e85-76de-4e81-b7ba-b9aefc6b1f49)
+   - Displays crash causes (y-axis) against fatalities (x-axis), highlighting fatalities for each cause with labeled axes for easy interpretation:
+      ![image](https://github.com/user-attachments/assets/24892faa-c222-48a2-9e6c-e39dbb23182a)
 
 
 ---
