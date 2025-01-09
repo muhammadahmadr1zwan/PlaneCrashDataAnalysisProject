@@ -100,7 +100,6 @@ This project aims to analyze global commercial airplane crashes to uncover criti
    - Standardized numerical columns (e.g., GDP, fatalities) for consistent analysis.
 
 ### **Data Analysis Tools:**
-- **Python Libraries:**
   - `R` for data manipulation, visualization, and numerical operations
 ---
 
